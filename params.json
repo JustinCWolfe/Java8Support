@@ -1,0 +1,6 @@
+{
+  "name": "Java8Support",
+  "tagline": "Android library with select Java8 functionality.",
+  "body": "# Java8Support\r\n\r\nAndroid library with select Java8 functionality.\r\n\r\n## Description\r\n\r\nAn Android library project that includes some select Java8 functional interfaces as well as a partial implementation of the Optional\\<T\\> container.\r\n\r\nCurrent functional interfaces:\r\n\r\n* Predicate\\<T\\>\r\n* Function\\<T, U\\>\r\n* BiFunction\\<T, U, V\\>\r\n\r\n## Usage\r\n\r\n1. Include the Java8Support library in your project.\r\n\r\n## License\r\n\r\n[MIT License](../master/LICENSE)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
