@@ -21,7 +21,7 @@ Current functional interfaces:
 If you are using gradle, you can include the library by specifying it as a dependency:
 
 ```
-compile 'com.refreshableendlesslist:refreshableEndlessList:1.0'
+compile 'com.java8support:Java8Support:1.0'
 ```
 
 ## Maven
@@ -30,8 +30,8 @@ If you are using maven, you can include the library by specifying it as a depend
 
 ```
 <dependency>
-  <groupId>com.refreshableendlesslist</groupId>
-  <artifactId>refreshableEndlessList</artifactId>
+  <groupId>com.java8support</groupId>
+  <artifactId>Java8Support</artifactId>
   <version>1.0</version>
   <type>pom</type>
 </dependency>
